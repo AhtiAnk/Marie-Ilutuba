@@ -1,2 +1,2 @@
-hfdhufsdhsu
+hfdhufsdhsu  ahti
 Teine rida failis
