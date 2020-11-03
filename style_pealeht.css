@@ -1,4 +1,9 @@
-
+body {
+	color: #2E2E2E;
+	text-align: justify;
+	font-family: "Courier New";
+	background-image: url("taust.jpg");
+}
 h1 {
 	color: #141414;
 	font-family: "Times New Roman";
